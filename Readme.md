@@ -1,1 +1,1 @@
-I created a dictionary to map the newspapers to their respective total weekly budget and on pairs of two added all those pairs where their sum does not exceed the input budget and presented them as the output in the provided format.
+I created a dictionary to map the newspapers to their respective total weekly budget and in pairs of two added all those pairs where their sum does not exceed the input budget and presented them as the output in the provided format.
